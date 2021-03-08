@@ -1,4 +1,4 @@
-package com.jd.jrrisk.web.idworker;
+package com.lhb.idworker;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

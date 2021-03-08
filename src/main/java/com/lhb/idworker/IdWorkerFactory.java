@@ -1,4 +1,4 @@
-package com.jd.jrrisk.web.idworker;
+package com.lhb.idworker;
 
 /**
  * IdWorkerBuilder

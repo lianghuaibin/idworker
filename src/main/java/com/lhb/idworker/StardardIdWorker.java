@@ -1,4 +1,4 @@
-package com.jd.jrrisk.web.idworker;
+package com.lhb.idworker;
 
 /**
  * StardardIdWorker
@@ -18,7 +18,6 @@ public class StardardIdWorker implements IdWorker {
     }
 
 
-    @Override
     public long nextId() {
         return this.handler.nextId();
     }
